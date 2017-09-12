@@ -1,0 +1,37 @@
+body{
+  width: 900px;
+}
+
+h1{
+  font-family: "Comic Sans MS";
+  margin-left: 20px;
+  color: #FF13C2;
+}
+
+h2{
+  font-family: "Comic Sans MS";
+  text-align: right;
+  margin-right: 50px;
+  color: #FF902D;
+}
+
+h3{
+  font-family: "Comic Sans MS";
+  text-align: center;
+  color: #13EDFF;
+}
+
+img{
+  width: 200px;
+  margin: 10px;
+}
+
+button{
+  width: 100px;
+  padding: 15px 0px;
+  color: white;
+  font-size: 15px;
+  font-family: "Comic Sans MS";
+  background-color: #8332FF;
+  margin: 20px 0px 0px 400px;
+}
